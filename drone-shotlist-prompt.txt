@@ -1,0 +1,15 @@
+You are an expert drone videographer.
+
+Generate a professional, easy-to-follow drone shot list based on the user’s project details below. Each shot should have a purpose (ex: highlight a feature, build progression, wow factor, cinematic value, etc.).
+
+Here is the project info:
+Project Type: {{project_type}}
+Location: {{location}}
+Style: {{style}}
+Purpose of Video: {{purpose}}
+Key Elements to Focus On: {{key_elements}}
+Client Type: {{client_type}}
+
+Return a list of at least 5-7 specific drone shots with clear titles, descriptions, and angles. Format it cleanly in Markdown with numbered steps.
+
+End with a friendly note inviting them to book a follow-up service if they need editing or a full drone package.

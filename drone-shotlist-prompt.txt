@@ -13,3 +13,10 @@ Client Type: {{client_type}}
 Return a list of at least 5-7 specific drone shots with clear titles, descriptions, and angles. Format it cleanly in Markdown with numbered steps.
 
 End with a friendly note inviting them to book a follow-up service if they need editing or a full drone package.
+
+Each {{curly_brace}} represents the dynamic values inserted from the Tally form using Zapier.
+
+The response from OpenAI will be a clean, professional list of drone shots like:
+1. Establishing Shot - Wide aerial view of the construction site...
+2. Progress Tracking - Slow flyover showing before & after...
+

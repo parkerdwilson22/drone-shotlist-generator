@@ -29,7 +29,7 @@ It's designed to **save time, improve client communication**, and help drone pil
 - 👉 [Landing Page with Embedded Form (Carrd)](https://smoovevisuals.carrd.co/)  
   Submit a project to instantly receive a custom drone shot list via email.
 
-- 🎥 [Watch the Full Workflow Demo (Loom)](https://tinyurl.com/4bu6rjaa)
+- 🎥 [Watch the Full Workflow Demo (Loom)](https://tinyurl.com/4hmhus7f)
 
 ---
 

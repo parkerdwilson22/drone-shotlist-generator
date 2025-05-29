@@ -47,12 +47,24 @@ This is the exact prompt used inside the Zapier → OpenAI step:
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Demo Screenshots
 
-| Tally Form Embedded | Zapier Automation | Email Result | Landing Page |
-|---------------------|-------------------|--------------|--------------|
-| ![Tally Form](!
- | ![Zapier Workflow](./screenshots/zapier-workflow.png) | ![Email](./screenshots/shotlist-email.png) | ![Carrd Site](./screenshots/carrd-site.png) |
+### ✅ Final Email Output
+This is the customized drone shot list email users receive.
+![Final Email](./screenshots/final-email.png)
+
+### 🌐 Carrd Landing Page
+A professional landing page where users can submit their project details.
+![Landing Page](./screenshots/landing-page.png)
+
+### 📝 Tally Form
+The embedded form collects key details for generating a drone shot list.
+![Tally Form](./screenshots/tally-form.png)
+
+### ⚙️ Zapier Automation Workflow
+Zapier connects the form to OpenAI and auto-sends the results.
+![Zapier Workflow](./screenshots/zapier-workflow.png)
+
 
 ---
 
